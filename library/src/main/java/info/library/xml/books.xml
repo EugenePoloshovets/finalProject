@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+
+<book>
+    <book>
+        <title>Великий Гэтсби</title>
+        <author>Фиджеральд Ф.С.</author>
+        <genre>NOVEL</genre>
+        <ISBN>978-985-18-2450-8</ISBN>
+    </book>
+
+    <book>
+        <title>Алые паруса</title>
+        <author>Грин А.С</author>
+        <genre>STORY</genre>
+        <ISBN>5-7880-0100-5</ISBN>
+    </book>
+
+    <book>
+        <title>50 оттенков серого</title>
+        <author>Джеймс Э.Л.</author>
+        <genre>ROMANCE</genre>
+        <ISBN>978-5-699-83286-5</ISBN>
+    </book>
+
+    <book>
+        <title>Кровь Люцифера</title>
+        <author>Роллинс Дж.</author>
+        <genre>FANTASY</genre>
+        <ISBN>978-5-699-8386-6</ISBN>
+    </book>
+
+    <book>
+        <title>Властелин колец</title>
+        <author>Толкин Дж.Р.Р.</author>
+        <genre>FANTASY</genre>
+        <ISBN>978-540--18-7885-8</ISBN>
+    </book>
+
+    <book>
+        <title>Мастер и Маргарита</title>
+        <author>Булгаков М.А</author>
+        <genre>CLASSIC</genre>
+        <ISBN>975-8-56885-266-32</ISBN>
+    </book>
+</book>
